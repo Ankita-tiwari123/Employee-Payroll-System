@@ -40,10 +40,3 @@ Practiced data encapsulation and inheritance for better structure
 
 Improved understanding of file handling and user input validation
 
-🚀 Future Enhancements
-
-Add GUI using Java Swing or JavaFX
-
-Integrate database (MySQL) for persistent storage
-
-Implement login system for admin and employees
